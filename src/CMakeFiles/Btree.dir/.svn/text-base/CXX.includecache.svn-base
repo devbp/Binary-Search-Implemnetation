@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/poudel/mysvn/pointcloudprcoessing/trunk/exceptional handling/src/binarytree.cpp
+iostream
+-
+stdlib.h
+-
+time.h
+-
+
